@@ -1,0 +1,10 @@
+{
+    "request": {
+      "method": "GET",
+      "urlPattern": "/v1/marketplaces/([a-z0-9]*)/sellers/([a-z0-9]*)"
+    },
+    "response": {
+      "status": 200
+    }
+  }
+  
